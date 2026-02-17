@@ -1,1 +1,1 @@
-# 320-Git-Initial-Setup
+Repository for git setup, Marko Rasin
